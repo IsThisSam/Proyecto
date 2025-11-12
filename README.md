@@ -1,2 +1,3 @@
 # Proyecto
-Justin Perez
+Somos esatudiantes de la carrera de Ingenieria:
+Jorge Montalvo
